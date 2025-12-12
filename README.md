@@ -6,9 +6,9 @@ This report documents one of my **first practical engagements** with performance
 
 ## Project Structure
 
-SQL projects/ 
-├── Sprawozdanie-bazy_danych.pdf # The full report (in Polish) containing analysis, results, and SQL commands. 
-└── README.md # This file 
+SQL projects/   
+├── Sprawozdanie-bazy_danych.pdf # The full report (in Polish) containing analysis, results, and SQL commands.   
+└── README.md # This file   
 
 ## How to Explore
 
