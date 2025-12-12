@@ -1,6 +1,6 @@
 # SQL Query Performance Analysis Report
 
-An academic report (AGH, Applied Informatics) focusing on the detailed execution analysis of SQL queries. This project demonstrates fundamental concepts of database optimization, including the critical impact of Primary Keys, logical operators, and indexes.
+An academic report (AGH) focusing on the detailed execution analysis of SQL queries. This project demonstrates fundamental concepts of database optimization, including the critical impact of Primary Keys, logical operators, and indexes.
 
 This report documents one of my **first practical engagements** with performance tuning in a database environment, utilizing MS SQL Server and the AdventureWorks2019 dataset.
 
